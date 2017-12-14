@@ -1,0 +1,16 @@
+U:\E5\Machine learning\Neural networks\TPsandbox\NeuralNet\bin\Debug\NeuralNet.exe
+U:\E5\Machine learning\Neural networks\TPsandbox\NeuralNet\bin\Debug\NeuralNet.pdb
+U:\E5\Machine learning\Neural networks\TPsandbox\NeuralNet\obj\Debug\NeuralNet.csprojResolveAssemblyReference.cache
+U:\E5\Machine learning\Neural networks\TPsandbox\NeuralNet\obj\Debug\NeuralNet.Form1.resources
+U:\E5\Machine learning\Neural networks\TPsandbox\NeuralNet\obj\Debug\NeuralNet.Properties.Resources.resources
+U:\E5\Machine learning\Neural networks\TPsandbox\NeuralNet\obj\Debug\NeuralNet.csproj.GenerateResource.Cache
+U:\E5\Machine learning\Neural networks\TPsandbox\NeuralNet\obj\Debug\NeuralNet.exe
+U:\E5\Machine learning\Neural networks\TPsandbox\NeuralNet\obj\Debug\NeuralNet.pdb
+C:\Users\bibiana\Desktop\Machine learning\Neural networks\TPsandbox\NeuralNet\obj\Debug\NeuralNet.exe
+C:\Users\bibiana\Desktop\Machine learning\Neural networks\TPsandbox\NeuralNet\obj\Debug\NeuralNet.pdb
+C:\Users\bibiana\Desktop\Machine learning\Neural networks\TPsandbox\NeuralNet\bin\Debug\NeuralNet.exe
+C:\Users\bibiana\Desktop\Machine learning\Neural networks\TPsandbox\NeuralNet\bin\Debug\NeuralNet.pdb
+C:\Users\bibiana\Desktop\Machine learning\Neural networks\TPsandbox\NeuralNet\obj\Debug\NeuralNet.csprojResolveAssemblyReference.cache
+C:\Users\bibiana\Desktop\Machine learning\Neural networks\TPsandbox\NeuralNet\obj\Debug\NeuralNet.Form1.resources
+C:\Users\bibiana\Desktop\Machine learning\Neural networks\TPsandbox\NeuralNet\obj\Debug\NeuralNet.Properties.Resources.resources
+C:\Users\bibiana\Desktop\Machine learning\Neural networks\TPsandbox\NeuralNet\obj\Debug\NeuralNet.csproj.GenerateResource.Cache
